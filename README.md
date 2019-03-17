@@ -1,6 +1,10 @@
 # Welcome to Kotodama!
 
-This repo will be rendered kotodama.github.io (hopefully)
+This repo will be rendered koleopteros.github.io/kotodama
+
+I chose kotodama mostly because it means something along the lines of "spirit of words"; Something which code kind of represents as it is part of the whole scheme of things that make our applications appear the way they are.  
+
+I know Code/scripts isn't exactly the core, we could probably go all the way down to 0s and 1s or even simply volts and amps, but I hope you get the idea.
 
 # Purpose
 In the long scheme of things, this will be my prototype website.
