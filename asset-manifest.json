@@ -1,14 +1,16 @@
 {
-  "main.css": "/kotodama/static/css/main.0edbf656.chunk.css",
-  "main.js": "/kotodama/static/js/main.41310a2b.chunk.js",
-  "main.js.map": "/kotodama/static/js/main.41310a2b.chunk.js.map",
+  "main.css": "/kotodama/static/css/main.d1d47e25.chunk.css",
+  "main.js": "/kotodama/static/js/main.5b9a389d.chunk.js",
+  "main.js.map": "/kotodama/static/js/main.5b9a389d.chunk.js.map",
   "runtime~main.js": "/kotodama/static/js/runtime~main.571fa706.js",
   "runtime~main.js.map": "/kotodama/static/js/runtime~main.571fa706.js.map",
-  "static/js/2.8f71a45e.chunk.js": "/kotodama/static/js/2.8f71a45e.chunk.js",
-  "static/js/2.8f71a45e.chunk.js.map": "/kotodama/static/js/2.8f71a45e.chunk.js.map",
+  "static/css/2.a98fd450.chunk.css": "/kotodama/static/css/2.a98fd450.chunk.css",
+  "static/js/2.a0ba86db.chunk.js": "/kotodama/static/js/2.a0ba86db.chunk.js",
+  "static/js/2.a0ba86db.chunk.js.map": "/kotodama/static/js/2.a0ba86db.chunk.js.map",
   "index.html": "/kotodama/index.html",
-  "precache-manifest.5f906b689e37f5bac20195dc5541d6af.js": "/kotodama/precache-manifest.5f906b689e37f5bac20195dc5541d6af.js",
+  "precache-manifest.b9913995484f489445931b7e6f7040fc.js": "/kotodama/precache-manifest.b9913995484f489445931b7e6f7040fc.js",
   "service-worker.js": "/kotodama/service-worker.js",
-  "static/css/main.0edbf656.chunk.css.map": "/kotodama/static/css/main.0edbf656.chunk.css.map",
-  "static/media/logo.svg": "/kotodama/static/media/logo.5d5d9eef.svg"
+  "static/css/2.a98fd450.chunk.css.map": "/kotodama/static/css/2.a98fd450.chunk.css.map",
+  "static/css/main.d1d47e25.chunk.css.map": "/kotodama/static/css/main.d1d47e25.chunk.css.map",
+  "static/media/logo.svg": "/kotodama/static/media/logo.ee7cd8ed.svg"
 }
