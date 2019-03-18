@@ -83,7 +83,7 @@ class Projects extends Component {
                                 My various Pens on CodePen where I create solutions to my HTML and JS Mobihelp Challenge Questions
                             </CardText>
                             <CardActions border>
-                                <Button colored><a href="http://gbcmobihelp.github.io" target="_blank" rel="noopener noreferrer">CodePen Collection</a></Button>
+                                <Button colored><a href="https://codepen.io/collection/nawGQK/" target="_blank" rel="noopener noreferrer">CodePen Collection</a></Button>
                             </CardActions>
                             <CardMenu style={{color:'#fff'}}>
                                 <IconButton name='share'></IconButton>
