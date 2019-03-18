@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/kotodama/static/js/runtime~main.571fa706.js"
   },
   {
-    "revision": "b59e62ac85755984a936",
-    "url": "/kotodama/static/js/main.95342cd5.chunk.js"
+    "revision": "02b179de29b94ece2178",
+    "url": "/kotodama/static/js/main.8d7c86df.chunk.js"
   },
   {
     "revision": "71bf25335b2b94f2f705",
     "url": "/kotodama/static/js/2.37d54dce.chunk.js"
   },
   {
-    "revision": "b59e62ac85755984a936",
-    "url": "/kotodama/static/css/main.cf5fba9e.chunk.css"
+    "revision": "02b179de29b94ece2178",
+    "url": "/kotodama/static/css/main.fb0913d2.chunk.css"
   },
   {
     "revision": "71bf25335b2b94f2f705",
     "url": "/kotodama/static/css/2.0e393328.chunk.css"
   },
   {
-    "revision": "9d9c4b3b73ffe846cf820ac470f15591",
+    "revision": "d10c986983a4d5696a6116fba96592e8",
     "url": "/kotodama/index.html"
   }
 ];
