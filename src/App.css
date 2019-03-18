@@ -24,10 +24,51 @@ background: linear-gradient(to right, #24243e, #6b8cdf, #3964f1); /* W3C, IE 10+
 }
 
 /* Resume Page css */
+.resume-left-col {
+  text-align: center;
+}
+
+.resume-left-col hr {
+  margin: 0 auto;
+}
+
 .resume-right-col {
   background: #27221F;
   color: white;
   padding: 2em;
+}
+
+.resume img{
+  margin-top: 3em;
+  border: 4px solid rgba(139, 136, 136, 0.466);
+  border-radius: 5em;
+}
+
+.resume h5{
+  font-weight: bold;
+}
+
+.resume h5+p {
+  font-style: italic;
+}
+
+/* about page css */
+
+.about-body{
+  margin: auto;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  padding-top: 2em;
+}
+
+.about-grid {
+  justify-content: center;
+  width: 80%;
+  height: 550px;
+  color: black;
+  margin-bottom: 20px;
 }
 
 /* contact page css */
