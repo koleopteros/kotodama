@@ -4,11 +4,13 @@ background: -webkit-linear-gradient(to right, #24243e, #6b8cdf, #3964f1);  /* Ch
 background: linear-gradient(to right, #24243e, #6b8cdf, #3964f1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
-.landing-grid {
+.general-bg {
   background: #667db6;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #6b8cdf, #f5f7f8, #f5f7f8, #6b8cdf);  /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to right, #6b8cdf, #f5f7f8, #f5f7f8, #6b8cdf); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
 
+.landing-grid {
   text-align: center;
   position: fixed;
   top: 0;
@@ -44,17 +46,16 @@ background: linear-gradient(to right, #24243e, #6b8cdf, #3964f1); /* W3C, IE 10+
   justify-content: center;
   width: 80%;
   height: 550px;
-  background: white;
   color: black;
   margin-bottom: 20px;
 }
 
 .contact-grid h2 {
-  font-family: 'Anton', sans-serif;
+  font-family: sans-serif;
 }
 
 .contact-grid p {
-  font-family: 'Oxygen', sans-serif;
+  font-family: sans-serif;
   font-weight: bold;
 }
 
@@ -66,7 +67,8 @@ background: linear-gradient(to right, #24243e, #6b8cdf, #3964f1); /* W3C, IE 10+
 
 .contact-list i {
   font-size: 66px;
-  padding-right: 5rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
 }
 
 /* contact page css */
