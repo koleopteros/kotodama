@@ -8,6 +8,7 @@ import { Grid, Cell } from 'react-mdl';
 import Education from './resume/education';
 import Experience from './resume/experience';
 import Skill from './resume/skill';
+import Award from './resume/award';
 
 
 class Resume extends Component {
@@ -21,6 +22,9 @@ class Resume extends Component {
                         </div>
                         <h2 style={{paddingTop:'1em'}}> Jerome Ching </h2>
                         <h4 style={{color:'#222'}}>Developer</h4>
+                        <hr style={{borderTop:'3px solid lightgrey', width:'50%' }}/>
+                        <h2>Career Goals</h2>
+                        <p>Solving problems and understanding new perspectives will always be my goal; However, I find that the greatest feeling in life is learning by teaching.  I suppose my ultimate goal is to accrue knowledge through hardwork, and then sharing that knowledge with others to broaden the understanding.</p>
                         <hr style={{borderTop:'3px solid lightgrey', width:'50%'}}/>
                         <h5>Address</h5>
                         <p>570 Huntingwood Drive, M1W 1G8</p>
@@ -30,7 +34,7 @@ class Resume extends Component {
                         <p>jerome.ching@georgebrown.ca</p>
                         <h5>Web</h5>
                         <p>koleopteros.github.io/kotodama</p>
-                        <hr style={{borderTop:'3px solid lightgrey', width:'50%' }}/>
+                        
                         
                     </Cell>
 
@@ -42,6 +46,7 @@ class Resume extends Component {
                             school="George Brown College"
                             program="Computer Programmer Analyst"
                             schoolDesc="Studied various languages, Application development cycle, Machine learning, Database managment, and Project management"
+                            transcript="./resume/gbcTranscript.pdf"
                         />
                         <Education
                             startYear={2012}
@@ -65,6 +70,13 @@ class Resume extends Component {
                             company="Kumon Learning Centre"
                             position="Assistant"
                             description="Provided tailored learning strategies for each student, organised and managed inventory, and coordinated within a small team."
+                        />
+                        <hr style={{borderTop:'3px solid lightgrey', width:'50%'}}/>
+                        <h2 >Awards</h2>
+                        <Award
+                            award="Dean's Honor List"
+                            source="George Brown College"
+                            year="2018,2019"
                         />
                         <hr style={{borderTop:'3px solid lightgrey', width:'50%'}}/>
                         <h2 >Skills</h2>
