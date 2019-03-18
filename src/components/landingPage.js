@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import me from './me.jpg'
+import me from './img/me.jpg'
 /* MDL COmponents */
 import { Grid, Cell } from 'react-mdl'
 
