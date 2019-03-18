@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/kotodama/precache-manifest.44d955235a52a0e820a59852110f2366.js"
+  "/kotodama/precache-manifest.a5410fd7e3af9ab095df330ce6936044.js"
 );
 
 workbox.clientsClaim();
