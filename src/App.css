@@ -26,6 +26,7 @@ background: linear-gradient(to right, #24243e, #6b8cdf, #3964f1); /* W3C, IE 10+
 /* Resume Page css */
 .resume-left-col {
   text-align: center;
+  padding: 0 10em;
 }
 
 .resume-left-col hr {
@@ -64,6 +65,8 @@ background: linear-gradient(to right, #24243e, #6b8cdf, #3964f1); /* W3C, IE 10+
 }
 
 .about-grid {
+  
+  text-align: center;
   justify-content: center;
   width: 80%;
   height: 550px;

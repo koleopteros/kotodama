@@ -13,6 +13,7 @@ import Resume from './resume';
 const Main = () => (
     
     <Switch>
+        <Route exact path ="/" component={Landing} />
         <Route exact path ="/kotodama" component={Landing} />
         <Route exact path="/kotodama/about" component={About}/>
         <Route exact path="/kotodama/resume" component={Resume}/>

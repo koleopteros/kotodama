@@ -16,7 +16,7 @@ class App extends Component {
       return (
         <div>
             <Layout className="mdl-layout--fixed-header general-bg">
-                <Header className="header-color" title={<Link style={{textDecoration: 'none', color: 'white'}} to="/kotodama">Kotodama - Yan Ling - 言霊 </Link>} scroll>
+                <Header className="header-color" title={<Link style={{textDecoration: 'none', color: 'white'}} to="/kotodama">言霊 - Jerome Ching's Portfolio </Link>} scroll>
                     <Navigation>
                         <Link to="/kotodama/projects">Projects</Link>
                         <Link to="/kotodama/resume">Resume</Link>

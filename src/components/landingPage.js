@@ -15,6 +15,10 @@ class Landing extends Component {
                         <h1>Application Developer</h1>
                         <hr/>
                         <p>
+                            Hi, I'm Jerome Ching, and this is my prototype website and portfolio!
+                        </p>
+                        <hr/>
+                        <p>
                             HTML/CSS | JavaScript | React | Angular | PHP | Python | Java | Swift
                         </p>
                         <div className="social-links">
